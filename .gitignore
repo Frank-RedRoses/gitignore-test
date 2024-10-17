@@ -1,5 +1,5 @@
 # How to ignore a single file:
-another-file.txt
+new-file.txt
 
 # How to ignore all the files inside a folder and the folder itself:
 bin/
