@@ -1,3 +1,8 @@
+# How to ignore a single file:
 new-file.txt
 
+# How to ignore all the files inside a folder and the folder itself:
 bin/
+
+# How to ignore all .tmp files
+*.tmp
